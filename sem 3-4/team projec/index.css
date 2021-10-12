@@ -1,0 +1,63 @@
+.kadupis-decung{
+    margin-top: 50px;
+  }
+  
+  .kadupis-decung h1{
+    font-family: 'Allura', cursive;
+    font-size: 52px;
+    margin-bottom: 60px;
+    text-align: center;
+  }
+  
+  .cumconevu{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    text-align: center;
+    flex-wrap: wrap;
+  }
+  
+  .cumconevu .volupavum {
+    background: #fdfafa;
+    margin: 4px;
+    margin-bottom: 50px;
+    width: 315px;
+    padding: 18px;
+    line-height: 20px;
+    color: #888dad;
+    position: relative;
+  }
+  
+  .cumconevu .volupavum h3{
+    color: #000000;
+    font-size: 26px;
+    margin-top: 50px;
+    font-weight: 800
+  }
+  
+  .cumconevu .volupavum p.role {
+    color: #676363;
+    margin: 10px 0;
+    font-size: 13px;
+    text-transform: uppercase;
+  }
+  
+  .cumconevu .volupavum .vumkob-salovum{
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #fff;
+  }
+  
+  .cumconevu .volupavum .vumkob-salovum img{
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+  }
+  .round {
+    border-radius: 50%;
+  }
